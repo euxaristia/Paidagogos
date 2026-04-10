@@ -127,7 +127,7 @@ While the parallels are genuine, the papers overstate their probative force:
 This claim is historically false on multiple levels:
 
 1. **These were regional councils.** Hippo and Carthage were North African synods. They did not claim universal authority, nor were they received as ecumenical by the Eastern Church.
-2. **The Eastern Church never accepted their canon.** The Eastern Orthodox Church to this day has not formally defined a closed canon. The Synod of Jerusalem (1672) and earlier lists (e.g., the Synod of Hippo was unknown in the East) show that the Orthodox canon remained somewhat fluid.
+2. **The Eastern Church discerned its canon differently.** The Eastern Orthodox Church never produced a formal, dogmatic decree closing the canon the way Trent did — but this reflects a different mode of discernment (liturgical reception rather than conciliar definition), not ambiguity. By the Eastern standard of liturgical use, the Deuterocanonical books were received as Scripture. The variation in the East is in individual canon lists, not in liturgical practice.
 3. **Even in the West, debate continued.** Jerome's position was widely known. The Decretum Gelasianum (6th century) reflected ongoing debate. The canon was not "settled" in any absolute sense until much later.
 4. **Trent was necessary precisely because the canon had not been dogmatically defined at a universally binding level.** The papers argue that Trent was not needed because Carthage had already "settled" it—but then they cannot explain why Trent felt the need to issue a dogmatic, anathema-enforced definition.
 
