@@ -25,6 +25,6 @@ Responses are intentionally concise (maximum 50 words by default) to encourage f
 - Catholic apologetics
 - Classical language consultation (Latin/Greek)
 
-## License
+## Copyright
 
-[Specify license]
+All rights reserved.
