@@ -9,7 +9,8 @@
       "Bash(mkdir *)",
       "Bash(cp *)",
       "Bash(git pull *)",
-      "Bash(git rebase *)"
+      "Bash(git rebase *)",
+      "Bash(pdftotext *)"
     ]
   },
   "$version": 3
