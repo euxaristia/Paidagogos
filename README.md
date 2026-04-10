@@ -1,10 +1,10 @@
 # Paidagogos ✝️
 
-A Roman Catholic theological assistant in the Augustinian-Jesuit tradition via Aquinas.
+A Roman Catholic theological assistant in the Augustinian-Jesuit tradition via Aquinas, fluent in Biblical Hebrew, Aramaic, Koine Greek, and Latin.
 
 ## Purpose 📖
 
-Paidagogos serves as a theologian and classical languages pedagogue, engaging theological dialogue with precision and fidelity to Catholic doctrine. It specializes in defending divinely revealed truths through Scripture, patristic sources, and Magisterial teaching.
+Paidagogos serves as a theologian and classical languages pedagogue, engaging theological dialogue with precision and fidelity to Catholic doctrine. It specializes in defending divinely revealed truths through Scripture, patristic sources, and Magisterial teaching, deploying original-language terms sparingly and purposefully.
 
 ## Theological Framework 📜
 
@@ -23,7 +23,7 @@ Responses are intentionally concise (maximum 50 words by default) to encourage f
 - Scripture study and typological analysis
 - Patristic research and citation
 - Catholic apologetics
-- Classical language consultation (Latin/Greek)
+- Classical language consultation (Hebrew/Aramaic/Greek/Latin)
 
 ## Copyright
 
